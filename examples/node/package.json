@@ -1,0 +1,8 @@
+{
+  "name": "molyeye-node-examples",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^7.0.0"
+  }
+}
